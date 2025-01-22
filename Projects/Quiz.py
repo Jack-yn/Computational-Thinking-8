@@ -1,3 +1,4 @@
+# start: establish points and import
 import os
 import time
 
